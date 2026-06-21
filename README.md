@@ -1,118 +1,139 @@
-# Hi 👋, I'm Divyanshu Mishra
+<h1 align="center">⚡ Hi, I'm Divyanshu Mishra</h1>
 
-### AI Engineer • Cybersecurity • Legal AI • Smart Grid Intelligence
-
-Building intelligent systems that solve real-world problems through AI, Machine Learning, Cybersecurity, and Distributed Systems.
+<h3 align="center">
+AI Engineer • Machine Learning • Cybersecurity • Autonomous Systems
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dvyanshumishra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:divyanshum9521@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Building intelligent systems using AI, LLMs, Deep Reinforcement Learning, Graph Neural Networks, and Distributed Infrastructure.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dvyanshumishra/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:divyanshum9521@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ⚖️ LexoraAI
+## ⚖️ LexoraAI
 
-AI-powered Contract Intelligence Platform for legal document analysis and risk assessment.
+AI-powered Contract Intelligence Platform for legal document analysis, clause extraction, risk assessment, contract comparison, and executive reporting.
 
-**Key Features**
+### Highlights
 
-* Contract Risk Assessment
-* Clause Intelligence Engine
-* AI Legal Assistant
-* Contract Comparison
-* Executive PDF Reports
-* Portfolio Analytics Dashboard
+- Contract Risk Assessment Engine
+- Clause Intelligence System
+- AI Legal Assistant
+- Contract Comparison Engine
+- Executive PDF Reports
+- Portfolio Analytics Dashboard
 
 **Tech Stack**
-Python • FastAPI • React • SQLite • NLP • AI Workflows
+
+`Python` `FastAPI` `React` `SQLite` `NLP` `LLMs`
 
 ---
 
-### 🛡️ SentinelAI-SOC
+## 🛡️ SentinelAI-SOC
 
 Enterprise Security Operations Center inspired by modern SOC and SIEM platforms.
 
-**Key Features**
+### Highlights
 
-* Threat Intelligence Feed
-* MITRE ATT&CK Mapping
-* SOAR Playbook Automation
-* AI Threat Analysis
-* Analyst Workbench
-* Security Score Monitoring
-* Incident Response Dashboard
-
-**Tech Stack**
-React • FastAPI • JavaScript • REST APIs • Cybersecurity Analytics
-
----
-
-### ⚡ AI Self-Healing Microgrid
-
-DRL + GNN powered intelligent smart-grid platform for autonomous fault recovery.
-
-**Key Features**
-
-* Fault Detection & Isolation
-* Graph Neural Network Node Analysis
-* Deep Reinforcement Learning Recovery Engine
-* Grid Topology Visualization
-* Performance Monitoring
-* Autonomous Self-Healing Actions
+- Threat Intelligence Feed
+- MITRE ATT&CK Mapping
+- SOAR Playbook Automation
+- AI Threat Analysis
+- Analyst Workbench
+- Security Score Monitoring
+- Incident Response Dashboard
 
 **Tech Stack**
-Python • PyTorch • GNN • DRL • NetworkX • Machine Learning
+
+`React` `FastAPI` `JavaScript` `REST APIs` `Cybersecurity`
 
 ---
 
-## 🛠 Technical Skills
+## ⚡ Self-Healing Smart Microgrid
 
-### Languages
+DRL + GNN powered autonomous energy infrastructure for intelligent fault detection and recovery.
 
-Python • C++ • JavaScript • SQL
+### Highlights
 
-### AI / Machine Learning
+- Fault Detection & Isolation
+- Graph Neural Network Analysis
+- Deep Reinforcement Learning Recovery Engine
+- Grid Topology Visualization
+- Performance Monitoring
+- Autonomous Self-Healing
 
-PyTorch • Scikit-Learn • CNNs • Graph Neural Networks (GNN) • Deep Reinforcement Learning (DRL) • LangChain • LLM Applications
+**Tech Stack**
 
-### Web Development
-
-FastAPI • React • HTML • CSS • REST APIs • Jinja
-
-### Tools & Platforms
-
-Git • GitHub • Linux • VS Code • Streamlit • MySQL
+`Python` `PyTorch` `GNN` `DRL` `NetworkX` `Machine Learning`
 
 ---
 
-## 📈 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DvyanshuM9521&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvyanshuM9521&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🔭 Currently Building
+# 🧠 AI / Machine Learning
 
-* AI Incident Commander
-* Enterprise AI Operations Center
-* Advanced Autonomous Infrastructure Monitoring Systems
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Reinforcement_Learning-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📫 Connect
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DvyanshuM9521&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvyanshuM9521&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DvyanshuM9521&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- AI Incident Commander
+- Enterprise AI Operations Center
+- Advanced Cybersecurity Analytics
+- Agentic AI Systems
+- Autonomous Infrastructure Monitoring
+
+---
+
+# 📫 Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/dvyanshumishra/
 
-📧 Email: [divyanshum9521@gmail.com](mailto:divyanshum9521@gmail.com)
+📧 Email: divyanshum9521@gmail.com
 
 📍 Bengaluru, India
+
+---
+
+<p align="center">
+⭐ Building real-world AI systems one project at a time.
+</p>
