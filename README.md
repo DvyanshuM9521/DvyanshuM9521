@@ -43,6 +43,6 @@ Python • FastAPI • React • PyTorch • Scikit-Learn • GNN • DRL • SQ
 
 ## 📫 Connect
 
-LinkedIn: linkedin.com/in/divyanshumishra
+LinkedIn: linkedin.com/in/dvyanshumishra
 
 Email: divyanshum9521@gmail.com
