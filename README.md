@@ -126,9 +126,11 @@ DRL + GNN powered autonomous energy infrastructure for intelligent fault detecti
 
 # 📫 Connect
 
+🌐 Portfolio: https://portfolio-dvyanshu9521.vercel.app
+
 🔗 LinkedIn: https://www.linkedin.com/in/dvyanshumishra/
 
-📧 Email: divyanshum9521@gmail.com
+📧 Email: [divyanshum9521@gmail.com](mailto:divyanshum9521@gmail.com)
 
 📍 Bengaluru, India
 
