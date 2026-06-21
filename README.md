@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Divyanshu 👋
 
-<!--
-**DvyanshuM9521/DvyanshuM9521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer passionate about building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LexoraAI
+AI-powered contract intelligence platform.
+
+### SentinelAI-SOC
+Enterprise security operations center.
+
+### AI Self-Healing Microgrid
+DRL + GNN powered autonomous energy network.
+
+## Tech Stack
+
+Python • FastAPI • React • PyTorch • LLMs • GNN • DRL
+
+## Currently Building
+
+- AI Incident Commander
+- Enterprise AI Operations Center
