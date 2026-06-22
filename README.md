@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-AI Engineer • Machine Learning • Cybersecurity • Autonomous Systems
+CS & AI Engineer • Machine Learning • Cybersecurity • Autonomous Systems
 </h3>
 
 <p align="center">
