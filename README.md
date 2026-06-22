@@ -1,4 +1,3 @@
-# ⚡ Divyanshu Mishra
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Divyanshu%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
